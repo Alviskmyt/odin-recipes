@@ -1,0 +1,17 @@
+#recipe-name{
+    color: black;
+    background-color: rgb(28, 125, 155);
+    font-family:'Times New Roman', Times, serif;
+    font-size:100px;
+    font-weight: bold;    
+}
+#ingredient{
+    color:black;
+    background-color: aqua;
+    font-size: 50px;
+}
+#i-s,.i-ss{
+    color:black;
+    background-color: aqua;
+    font-size: 25px;
+}
